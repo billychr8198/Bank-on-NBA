@@ -1,0 +1,14 @@
+{
+  "_comment": "Tickers listed here are fetched daily by .github/workflows/update-prices.yml and used as the starting portfolio on a fresh install. Use the exact symbol from the Yahoo Finance URL.",
+  "baseCurrency": "IDR",
+  "holdings": [
+    {
+      "ticker": "BBCA.JK",
+      "name": "Bank Central Asia Tbk",
+      "shortName": "BCA",
+      "currency": "IDR",
+      "source": "https://finance.yahoo.com/quote/BBCA.JK/",
+      "lots": []
+    }
+  ]
+}
